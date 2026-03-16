@@ -1,0 +1,11 @@
+#files
+*.c
+
+video_app
+
+*.raw
+
+*.mp4
+
+#folders
+obj/
